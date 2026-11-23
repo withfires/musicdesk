@@ -2,6 +2,8 @@
 
 Music apps for Windows 10 and 11. Download them from the [latest release](../../releases/latest).
 
+**Website:** https://musicdeskforpc.netlify.app/
+
 | App | What it is | Download |
 | --- | --- | --- |
 | **MusicDesk** 1.0.0 | Full desktop skin: big glowing clock, now-playing bar, artist search with top songs and previews, and a settings window for colours, size and layout. | `MusicDesk-1.0.0.zip` |
