@@ -1,0 +1,44 @@
+MusicDesk — End User License Agreement
+Copyright © 2026 MusicDesk. All rights reserved.
+
+MusicDesk (the "Software") is owned by MusicDesk (the "Owner") and is protected
+by copyright law. The Software is licensed to you, not sold.
+
+1. WHAT YOU MAY DO
+   You may download, install and use the Software free of charge on computers
+   you own or control, for your own personal, non-commercial use.
+
+2. WHAT YOU MAY NOT DO
+   Without written permission from the Owner, you may not:
+   a) copy, re-upload, share or distribute the Software or any part of it
+      (sharing a link to the official download page is fine);
+   b) sell, rent, lend, sublicense or otherwise commercialise the Software;
+   c) modify, translate, decompile, disassemble or reverse engineer the
+      Software, or create derivative works based on it, except where the law
+      expressly allows this despite this restriction;
+   d) remove or change any copyright notice, name, logo or license text;
+   e) present the Software, or anything based on it, as your own work.
+
+3. OWNERSHIP
+   The Owner keeps all rights, title and interest in the Software, including
+   its code, design, name and icon. Any rights not expressly granted here are
+   reserved.
+
+4. THIRD-PARTY SERVICES
+   The Software shows music information and 30-second previews from the Deezer
+   API, and artist biographies from Wikipedia (licensed CC BY-SA 4.0). Those
+   services belong to their respective owners and are subject to their own terms.
+   Spotify, YouTube Music, SoundCloud and Apple Music are trademarks of their
+   respective owners; the Software only opens their public search pages and is
+   not affiliated with or endorsed by them.
+
+5. NO WARRANTY
+   The Software is provided "as is", without warranty of any kind. To the
+   maximum extent permitted by law, the Owner is not liable for any damages
+   arising from its use.
+
+6. TERMINATION
+   This license ends automatically if you break any of its terms. You must then
+   stop using and delete all copies of the Software.
+
+By installing or using the Software you agree to these terms.
